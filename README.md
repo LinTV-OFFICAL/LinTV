@@ -1,2 +1,3 @@
 # LinTV
-IPTV PLAYLIST LinTV для НИЖНЕГО НОВГОРОДА И НИЖЕГОРОДСКОЙ ОБЛАСТИ
+IPTV PLAYLIST LinTV для России и Белоруссии
+LinTV
