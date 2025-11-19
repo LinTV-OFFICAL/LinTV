@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Первый Канал" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Первый Канал.png" group-title="Федеральные",Первый Канал
+http://dmitry-tv.ddns.net/hls/zabava/region/MOS/CH_1TV.m3u8
+#EXTINF:-1 tvg-id="Россия 1 (Москва)" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Россия 1.png" group-title="Федеральные",Россия 1 (Москва)
+http://dmitry-tv.ddns.net/hls/zabava/region/MOS/CH_ROSSIA1.m3u8
+#EXTINF:-1 tvg-id="Матч ТВ" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Матч ТВ.png" group-title="Федеральные",Матч ТВ
+http://dmitry-tv.ddns.net/hls/zabava/region/MOS/CH_MATCHTV.m3u8
+/CH_MATCHTV.m3u8
