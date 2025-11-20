@@ -1,7 +1,9 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 tvg-id="Первый Канал" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Первый Канал.png" group-title="Федеральные",Первый Канал
 http://dmitry-tv.ddns.net/hls/zabava/region/MOS/CH_1TV.m3u8
-#EXTINF:-1 tvg-id="Россия 1 (Москва)" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Россия 1.png" group-title="Федеральные",Россия 1
+#EXTINF:-1 tvg-id="Россия 1" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Россия 1.png" group-title="Федеральные",Россия 1
 http://dmitry-tv.ddns.net/hls/zabava/region/MOS/CH_ROSSIA1.m3u8
-#EXTINF:-1 tvg-id="Матч ТВ" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Матч ТВ.png" group-title="Федеральные",Матч ТВ
+#EXTINF:-1 tvg-id="Матч ТВ" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Матч ТВ.png" group-title="Федеральные"
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 tvg-id="НТВ" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Матч ТВ.png" group-title="Федеральные"
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
