@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Первый Канал" #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Первый Канал.png" group-title="Федеральные",Первый Канал
 http://dmitry-tv.ddns.net/hls/zabava/region/MOS/CH_1TV.m3u8
 #EXTINF:-1 tvg-id="Россия 1" #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Россия 1.png" group-title="Федеральные",Россия 1
-http://dmitry-tv.ddns.net/hls/zabava/region/MOS/CH_ROSSIA1.m3u8
+https://cdn.liniptv.linkpc.net/stream/Russia-1/Russia-1.m3u8
 #EXTINF:-1 tvg-id="Матч ТВ" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Матч ТВ.png" group-title="Федеральные" ,МАТЧ ТВ
 https://cdn.liniptv.linkpc.net/stream/match-tv/match-tv.m3u8
 #EXTINF:-1 tvg-id="НТВ" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/НТВ.png" group-title="Федеральные" ,НТВ
