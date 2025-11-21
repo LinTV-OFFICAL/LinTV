@@ -6,4 +6,4 @@ http://dmitry-tv.ddns.net/hls/zabava/region/MOS/CH_ROSSIA1.m3u8
 #EXTINF:-1 tvg-id="Матч ТВ" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Матч ТВ.png" group-title="Федеральные" ,МАТЧ ТВ
 https://cdn.liniptv.linkpc.net/stream/match-tv/match-tv.m3u8
 #EXTINF:-1 tvg-id="НТВ" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/НТВ.png" group-title="Федеральные" ,НТВ
-https://LinIPTV.short.gy/stream/ntv/ntv.m3u8
+https://cdn.liniptv.linkpc.net/stream/ntv/ntv.m3u8
