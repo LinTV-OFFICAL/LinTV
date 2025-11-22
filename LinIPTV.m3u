@@ -31,3 +31,7 @@ https://195.191.208.11:8087/udp/238.9.64.115:1234
 https://195.191.208.11:8087/udp/238.9.64.66:1234
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Пятница.png" group-title="Федеральные" ,Пятница!
 https://195.191.208.11:8087/udp/224.0.191.161:1234
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Звезда.png" group-title="Федеральные" ,Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Мир.png" group-title="Федеральные" ,Мир
+https://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir_2500/playlist.m3u8
