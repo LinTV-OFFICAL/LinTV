@@ -23,5 +23,11 @@ https://195.191.208.11:8087/udp/238.9.64.3:1234
 https://195.191.208.11:8087/upd/224.0.191.156:1234
 #EXTINF:-1 tvg-id="spas" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/СПАС.png" group-title="Федеральные" ,Спас
 https://170.212.71.253:8000/play/12/index.m3u8
-#EXTINF:-1 tvg-id="spas" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/СПАС.png" group-title="Федеральные" ,Спас
+#EXTINF:-1 tvg-id="sts" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/СТС.png" group-title="Федеральные" ,СТС
 https://195.191.208.11:8087/udp/238.9.64.8:1234
+#EXTINF:-1 tvg-id="domashny" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Dомашний.png" group-title="Федеральные" ,Dомашний
+https://195.191.208.11:8087/udp/238.9.64.115:1234
+#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/ТВ-3.png" group-title="Федеральные" ,ТВ3
+https://195.191.208.11:8087/udp/238.9.64.66:1234
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Пятница.png" group-title="Федеральные" ,Пятница!
+https://195.191.208.11:8087/udp/224.0.191.161:1234
