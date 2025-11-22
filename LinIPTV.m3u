@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 tvg-id="Первый Канал" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Первый Канал.png" group-title="Федеральные",Первый Канал
-https://cdn.liniptv.linkpc.net/stream/1tv/1tv.mpd
+https://cdn.liniptv.linkpc.net/stream/1tv/index.m3u8
 #EXTINF:-1 tvg-id="Россия 1" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Россия 1.png" group-title="Федеральные",Россия 1
-https://cdn.liniptv.linkpc.net/stream/Russia-1/Russia-1.m3u8
+https://cdn.liniptv.linkpc.net/stream/Russia-1/index.m3u8
 #EXTINF:-1 tvg-id="Матч ТВ" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Матч ТВ.png" group-title="Федеральные" ,МАТЧ ТВ
-https://cdn.liniptv.linkpc.net/stream/match-tv/match-tv.m3u8
+https://cdn.liniptv.linkpc.net/stream/match-tv/index.m3u8
 #EXTINF:-1 tvg-id="НТВ" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/НТВ.png" group-title="Федеральные" ,НТВ
-https://cdn.liniptv.linkpc.net/stream/ntv/ntv.m3u8
+https://cdn.liniptv.linkpc.net/stream/ntv/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Пятый канал.png" group-title="Федеральные" ,Пятый Канал
-https://cdn.liniptv.linkpc.net/stream/ntv/ntv.m3u8
+https://cdn.liniptv.linkpc.net/stream/5channel/index.m3u8
