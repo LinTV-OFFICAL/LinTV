@@ -11,7 +11,7 @@ https://cdn.liniptv.linkpc.net/stream/ntv/index.m3u8
 https://cdn.liniptv.linkpc.net/stream/5channel/index.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Россия К.png" group-title="Федеральные" ,Россия К
 https://cdn.liniptv.linkpc.net/stream/Russia-K/index.m3u8
-#EXTINF:-1 tvg-id="kultura" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Россия 24.png" group-title="Федеральные" ,Россия 24
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Россия 24.png" group-title="Федеральные" ,Россия 24
 https://cdn.liniptv.linkpc.net/stream/Russia-24/index.m3u8
 
 
