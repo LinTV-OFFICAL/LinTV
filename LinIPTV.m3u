@@ -1,54 +1,53 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Первый Канал.png" group-title="Федеральные",Первый Канал(1)
-http://95.66.188.74/PerviyHD/mono.m3u8
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Первый Канал.png" group-title="Федеральные",Первый Канал(2)
-http://91.207.115.228:5000/c99
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Первый Канал.png" group-title="Федеральные",Первый Канал(3)
-http://194.8.128.38:8080/ort/playlist.m3u8
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Первый Канал.png" group-title="Федеральные",Первый Канал(4)
-http://178.212.71.253/play/1/index.m3u8
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Россия 1.png" group-title="Федеральные",Россия 1(1)
-http://91.207.115.228:5000/c100
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Россия 1.png" group-title="Федеральные",Россия 1(2)
-http://195.191.208.11:8087/udp/224.0.191.220:1234
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Россия 1.png" group-title="Федеральные",Россия 1(3)
-http://194.32.242.245/rossiya1/index.m3u8
-#EXTINF:-1 tvg-id="rossia1" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Россия 1.png" group-title="Федеральные",Россия 1(4(Нижний Новгород))
+#EXTINF:-1 tvg-id="pervy" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Первый Канал.png" group-title="Федеральные",Первый Канал
 #EXTVLCOPT:Mozilla/5.0
-http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_ROSSIA1.m3u8
+http://cdn.liniptv.linkpc.net/hls/zabava/region/NN/CH_1TV.m3u8
+#EXTINF:-1 tvg-id="rossia1" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Россия 1.png" group-title="Федеральные",Россия 1
+#EXTVLCOPT:Mozilla/5.0
+http://cdn.liniptv.linkpc.net/hls/zabava/region/NN/CH_ROSSIA1.m3u8
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Матч ТВ.png" group-title="Федеральные" ,МАТЧ ТВ
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/НТВ.png" group-title="Федеральные" ,НТВ
 http://cdn.ntv.ru/ntv0/track-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Пятый Канал.png" group-title="Федеральные" ,Пятый Канал
-http://95.66.188.74/5kanal/index.m3u8
-#EXTINF:-1 tvg-id="kultura" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Россия К.png" group-title="Федеральные" ,Россия К
-http://217.21.34.160:38007/kultura/index.m3u8
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Россия 24.png" group-title="Федеральные" ,Россия 24
-http://195.191.208.11:8087/udp/238.9.64.49:1234
-#EXTINF:-1 tvg-id="karusel" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Карусель.png" group-title="Федеральные" ,Карусель
-http://195.191.208.11:8087/udp/238.9.64.40:1234
-#EXTINF:-1 tvg-id="otr" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/ОТР.png" group-title="Федеральные" ,ОТР
-http://195.191.208.11:8087/udp/224.0.191.154:1234
-#EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/ТВЦ.png" group-title="Федеральные" ,ТВ Центр
-http://195.191.208.11:8087/udp/238.9.64.3:1234
-#EXTINF:-1 tvg-id="rentv" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Рен ТВ.png" group-title="Федеральные" ,Рен ТВ(1)
-http://178.212.71.253:8000/play/11/index.m3u8
-#EXTINF:-1 tvg-id="rentv" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Рен ТВ.png" group-title="Федеральные" ,Рен ТВ(2)
-http://185.46.16.239:8000/REN_TV
-#EXTINF:-1 tvg-id="spas" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/СПАС.png" group-title="Федеральные" ,Спас
+#EXTINF:-1 tvg-id="5kanal-ru" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Пятый Канал.png" group-title="Федеральные",Пятый Канал
+#EXTVLCOPT:Mozilla/5.0
+http://cdn.liniptv.linkpc.net/hls/zabava/region/NN/CH_5TV.m3u8
+#EXTINF:-1 tvg-id="kultura" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Россия К.png" group-title="Федеральные" ,Россия К
+#EXTVLCOPT:Mozilla/5.0
+http://cdn.liniptv.linkpc.net/hls/zabava/region/NN/CH_ROSSIAK.m3u8
+#EXTINF:-1 tvg-id="rossia-24" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Россия 24.png" group-title="Федеральные" ,Россия 24
+#EXTVLCOPT:Mozilla/5.0
+http://cdn.liniptv.linkpc.net/hls/zabava/region/NN/CH_ROSSIA24.m3u8
+#EXTINF:-1 tvg-id="karusel" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Карусель.png" group-title="Федеральные" ,Карусель
+#EXTVLCOPT:Mozilla/5.0
+http://cdn.liniptv.linkpc.net/hls/zabava/region/NN/CH_KARUSEL.m3u8
+#EXTINF:-1 tvg-id="otr" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/ОТР.png" group-title="Федеральные" ,ОТР
+#EXTVLCOPT:Mozilla/5.0
+http://cdn.liniptv.linkpc.net/hls/zabava/region/NN/CH_OTR.m3u8
+#EXTINF:-1 tvg-id="tvcentr" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/ТВЦ.png" group-title="Федеральные" ,ТВ Центр
+#EXTVLCOPT:Mozilla/5.0
+http://cdn.liniptv.linkpc.net/hls/zabava/region/NN/CH_TVC.m3u8
+#EXTINF:-1 tvg-id="rentv" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Рен ТВ.png" group-title="Федеральные" ,Рен ТВ(1)
+#EXTVLCOPT:Mozilla/5.0
+http://cdn.liniptv.linkpc.net/hls/zabava/region/NN/CH_RENTV.m3u8
+#EXTINF:-1 tvg-id="spas" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/СПАС.png" group-title="Федеральные" ,Спас
 https://170.212.71.253:8000/play/12/index.m3u8
-#EXTINF:-1 tvg-id="sts" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/СТС.png" group-title="Федеральные" ,СТС
-http://195.191.208.11:8087/udp/238.9.64.8:1234
-#EXTINF:-1 tvg-id="domashny" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Dомашний.png" group-title="Федеральные" ,Dомашний
-http://195.191.208.11:8087/udp/238.9.64.115:1234
-#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/ТВ-3.png" group-title="Федеральные" ,ТВ3
-http://195.191.208.11:8087/udp/238.9.64.66:1234
-#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Пятница.png" group-title="Федеральные" ,Пятница!
-http://195.191.208.11:8087/udp/224.0.191.161:1234
+#EXTINF:-1 tvg-id="sts" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/СТС.png" group-title="Федеральные" ,СТС
+#EXTVLCOPT:Mozilla/5.0
+http://cdn.liniptv.linkpc.net/hls/zabava/region/NN/CH_STS.m3u8
+#EXTINF:-1 tvg-id="domashny" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Dомашний.png" group-title="Федеральные" ,Dомашний
+#EXTVLCOPT:Mozilla/5.0
+http://cdn.liniptv.linkpc.net/hls/zabava/region/NN/CH_DOMASHIY.m3u8
+#EXTINF:-1 tvg-id="tv3-ru" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/ТВ-3.png" group-title="Федеральные" ,ТВ3
+#EXTVLCOPT:Mozilla/5.0
+http://cdn.liniptv.linkpc.net/hls/zabava/region/NN/CH_TV3.m3u8
+#EXTINF:-1 tvg-id="piatnica" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Пятница.png" group-title="Федеральные" ,Пятница!
+#EXTVLCOPT:Mozilla/5.0
+http://cdn.liniptv.linkpc.net/hls/zabava/region/NN/CH_FRIDAY.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Звезда.png" group-title="Федеральные" ,Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Мир.png" group-title="Федеральные" ,Мир
 https://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="tnt" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/ТНТ.png" group-title="Федеральные" ,ТНТ
-http://195.191.208.11:8087/upd/238.9.64.86:1234
+#EXTINF:-1 tvg-id="tnt" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/ТНТ.png" group-title="Федеральные" ,ТНТ
+#EXTVLCOPT:Mozilla/5.0
+http://cdn.liniptv.linkpc.net/hls/zabava/region/NN/CH_TNT.m3u8
