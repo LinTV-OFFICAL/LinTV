@@ -47,7 +47,7 @@ http://cdn.liniptv.linkpc.net/hls/zabava/region/NN/CH_FRIDAY.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Звезда.png" group-title="Федеральные" ,Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Мир.png" group-title="Федеральные" ,Мир
-https://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir_2500/playlist.m3u8
+https://cdn.liniptv.linkpc.net/hls/T2/CH_MIRHD.m3u8
 #EXTINF:-1 tvg-id="tnt" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/ТНТ.png" group-title="Федеральные" ,ТНТ
 #EXTVLCOPT:Mozilla/5.0
 http://cdn.liniptv.linkpc.net/hls/zabava/region/NN/CH_TNT.m3u8
