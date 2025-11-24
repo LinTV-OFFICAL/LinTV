@@ -58,4 +58,4 @@ http://cdn.liniptv.linkpc.net/hls/T2/CH_MIRHD.m3u8
 http://cdn.liniptv.linkpc.net/hls/zabava/region/NN/CH_TNT.m3u8
 #EXTINF:-1 tvg-id="rbk" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/РБК.png" group-title="Новости" ,РБК
 #EXTVLCOPT:Mozilla/5.0
-http://cdn.liniptv.linkpc.net/hls/zabava/region/NN/CH_TNT.m3u8
+http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
