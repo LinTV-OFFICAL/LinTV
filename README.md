@@ -1,2 +1,2 @@
 # LinTV
-IPTV PLAYLIST LinTV для России и Белоруссии
+IPTV PLAYLIST LinTV ОФФИЦИАЛЬНЫЙ РЕПОЗИТОРИЙ В ГИТХАБ
