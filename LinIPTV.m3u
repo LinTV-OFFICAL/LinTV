@@ -34,7 +34,7 @@ http://cdn.liniptv.linkpc.net/hls/zabava/region/NN/CH_TVC.m3u8
 #EXTINF:-1 tvg-id="rentv" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Рен ТВ.png" group-title="Федеральные" ,Рен ТВ(1)
 #EXTVLCOPT:Mozilla/5.0
 http://cdn.liniptv.linkpc.net/hls/zabava/region/NN/CH_RENTV.m3u8
-#EXTINF:-1 tvg-id="spas" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/СПАС.png" group-title="Федеральные" ,Спас
+#EXTINF:-1 tvg-id="spas" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/СПАС.jpg" group-title="Федеральные" ,Спас
 https://170.212.71.253:8000/play/12/index.m3u8
 #EXTINF:-1 tvg-id="sts" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/СТС.png" group-title="Федеральные" ,СТС
 #EXTVLCOPT:Mozilla/5.0
