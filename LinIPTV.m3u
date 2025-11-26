@@ -58,7 +58,7 @@ http://dmitry-tv.ddns.net/hls/T2/CH_MIRHD.m3u8
 http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_TNT.m3u8
 #EXTINF:-1 tvg-id="muztv" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Муз-ТВ.png" group-title="Федеральные" ,МУЗ ТВ
 #EXTVLCOPT:Mozilla/5.0
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV..m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV.m3u8
 #EXTINF:-1 tvg-id="rbk" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/РБК.png" group-title="Новости" ,РБК
 #EXTVLCOPT:Mozilla/5.0
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
