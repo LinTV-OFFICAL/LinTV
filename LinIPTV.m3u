@@ -68,12 +68,9 @@ http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 tvg-id="mult" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/МУЛЬТ.jpg" group-title="Детские" ,Мульт
 #EXTVLCOPT:Mozilla/5.0
 http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
-#EXTINF:-1 tvg-id="" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/ani.png" group-title="Детские" ,Ani
+#EXTINF:-1 tvg-id="ani" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/ani.png" group-title="Детские" ,Ani
 #EXTVLCOPT:Mozilla/5.0
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
-#EXTINF:-1 tvg-id="" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/ani.png" group-title="Детские" ,Уникум(1)
+#EXTINF:-1 tvg-id="detsky" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/уникум.png" group-title="Детские" ,Уникум
 #EXTVLCOPT:Mozilla/5.0
 http://46.8.46.14/detskiy/index.m3u8
-#EXTINF:-1 tvg-id="" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/ani.png" group-title="Детские" ,Уникум(2)
-#EXTVLCOPT:Mozilla/5.0
-http://https://tbs01-edge17.itdc.ge/unikum/index.m3u8?token=juB1YHRGpttuyY9lo-gybIGGEm9r1g9e418H_otHsRkqtRPYvehH60KMv3WkNIEQEuMjm_E86vJtUSEKE15_H-uA8ILUXyTm2AxYNZ_EmtLwvbJwPd_vY9nhXiLBpuUMXe29IXq2lqoLBYMKlkz_XUDbviWiBcctFMyAiDi_47LTOR_CEUbJbLgT2yr8Q619cgIhc5xsI7MD00oU4wPJHRqywXjbkPgoncLWNIJvQ7CH3wDihPmq2YZxt7ewH8Dt
