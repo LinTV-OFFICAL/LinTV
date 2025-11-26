@@ -35,7 +35,7 @@ http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_TVC.m3u8
 #EXTVLCOPT:Mozilla/5.0
 http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_RENTV.m3u8
 #EXTINF:-1 tvg-id="spas" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/СПАС.jpg" group-title="Федеральные" ,Спас
-https://170.212.71.253:8000/play/12/index.m3u8
+https://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS.m3u8
 #EXTINF:-1 tvg-id="sts" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/СТС.png" group-title="Федеральные" ,СТС
 #EXTVLCOPT:Mozilla/5.0
 http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_STS.m3u8
