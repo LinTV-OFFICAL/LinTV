@@ -80,3 +80,9 @@ http://217.21.34.160:38007/detmir/index.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Детский мир.png" group-title="Детские" ,Детский мир(2)
 #EXTVLCOPT:Mozilla/5.0
 http://178.212.71.253:8000/play/52/index.m3u8
+#EXTINF:-1 tvg-id="Malysh" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/СуперГерои.png" group-title="Детские" ,СуперГерои(1)
+#EXTVLCOPT:Mozilla/5.0
+http://185.46.16.239:8000/National_Geographic_HD
+#EXTINF:-1 tvg-id="Malysh" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/СуперГерои.png" group-title="Детские" ,СуперГерои(2)
+#EXTVLCOPT:Mozilla/5.0
+http://146.120.14.239:3001/play/a0gj
