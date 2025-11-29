@@ -27,7 +27,7 @@ http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_ROSSIA24.m3u8
 http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_KARUSEL.m3u8
 #EXTINF:-1 tvg-id="otr" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/ОТР.png" group-title="Федеральные" ,ОТР
 #EXTVLCOPT:Mozilla/5.0
-http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_OTR.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
 #EXTINF:-1 tvg-id="tvcentr" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/ТВЦ.png" group-title="Федеральные" ,ТВ Центр
 #EXTVLCOPT:Mozilla/5.0
 http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_TVC.m3u8
@@ -41,7 +41,7 @@ https://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS.m3u8
 http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_STS.m3u8
 #EXTINF:-1 tvg-id="domashny" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Dомашний.png" group-title="Федеральные" ,Dомашний
 #EXTVLCOPT:Mozilla/5.0
-http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_DOMASHIY.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHIY.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/ТВ-3.png" group-title="Федеральные" ,ТВ3
 #EXTVLCOPT:Mozilla/5.0
 http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_TV3.m3u8
