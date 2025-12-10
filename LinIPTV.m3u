@@ -86,3 +86,6 @@ http://185.46.16.239:8000/National_Geographic_HD
 #EXTINF:-1 tvg-id="Malysh" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/СуперГерои.png" group-title="Детские" ,СуперГерои(2)
 #EXTVLCOPT:Mozilla/5.0
 http://146.120.14.239:3001/play/a0gj
+#EXTINF:-1 tvg-id="Malysh" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/О!.png" group-title="Детские" ,О!
+#EXTVLCOPT:Mozilla/5.0
+http://95.66.188.74:80/O/mono.m3u8
