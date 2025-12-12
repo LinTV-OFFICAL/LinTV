@@ -95,3 +95,15 @@ http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR
 #EXTINF:-1 tvg-id="sony-scifi" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/sci-fi.png" group-title="Кино и сериалы" ,.sci-fi
 #EXTVLCOPT:Mozilla/5.0
 http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjU1NjkzMTQsImlhdCI6MTc2NTQ4MjkxNCwiY2lkIjo2LCJ1aWQiOjk3NDQ0OTE5MiwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.-1kvqd2PuRuMnVCIEe5Jj3h5yAWZTSGYLY865auGTrk&offset=10
+#EXTINF:-1 tvg-id="kino-tv" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Кино ТВ.png" group-title="Кино и сериалы" ,Кино ТВ
+#EXTVLCOPT:Mozilla/5.0
+http://vod.tuva.tv/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Amedia 1.png" group-title="Кино и сериалы" ,Amedia 1
+#EXTVLCOPT:Mozilla/5.0
+http:/158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:-1 tvg-id="" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Amedia 2.png" group-title="Кино и сериалы" ,Amedia 2
+#EXTVLCOPT:Mozilla/5.0
+http:/158.101.222.193:88/georgia_play.php?id=amedia2
+#EXTINF:-1 tvg-id="" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Amedia Hit.png" group-title="Кино и сериалы" ,Amedia Hit
+#EXTVLCOPT:Mozilla/5.0
+http:/158.101.222.193:88/georgia_play.php?id=amediahit
