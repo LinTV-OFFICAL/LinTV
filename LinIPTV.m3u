@@ -83,3 +83,12 @@ http://95.66.188.74:80/O/mono.m3u8
 #EXTINF:-1 tvg-id="multimuzyka" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Мульт и Музыка.png" group-title="Детские" ,Мульт и Музыка
 #EXTVLCOPT:Mozilla/5.0
 http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="sony-turbo" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/black.png" group-title="Кино и сериалы" ,.black
+#EXTVLCOPT:Mozilla/5.0
+http://95.66.188.74/.black/index.m3u8
+#EXTINF:-1 tvg-id="sony-tv" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/red.png" group-title="Кино и сериалы" ,.red
+#EXTVLCOPT:Mozilla/5.0
+http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjU1NjkzMTQsImlhdCI6MTc2NTQ4MjkxNCwiY2lkIjo2LCJ1aWQiOjk3NDQ0OTE5MiwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.-1kvqd2PuRuMnVCIEe5Jj3h5yAWZTSGYLY865auGTrk&offset=10
+#EXTINF:-1 tvg-id="sony-scifi" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/sci-fi.png" group-title="Кино и сериалы" ,.sci-fi
+#EXTVLCOPT:Mozilla/5.0
+http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjU1NjkzMTQsImlhdCI6MTc2NTQ4MjkxNCwiY2lkIjo2LCJ1aWQiOjk3NDQ0OTE5MiwicmVnIjpmYWxzZSwiaXAiOjMyNjA1MDkxNjcsImFkdWx0IjpmYWxzZX0.-1kvqd2PuRuMnVCIEe5Jj3h5yAWZTSGYLY865auGTrk&offset=10
