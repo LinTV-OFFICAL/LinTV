@@ -89,6 +89,9 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/black.png" group-title="Кино и сериалы" ,.black
 #EXTVLCOPT:Mozilla/5.0
 http://95.66.188.74/.black/index.m3u8
+#EXTINF:-1 tvg-id="sony-turbo" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/black.png" group-title="Кино и сериалы" ,.black(2)
+#EXTVLCOPT:Mozilla/5.0
+http://158.101.222.193:88/georgia_play.php?id==black
 #EXTINF:-1 tvg-id="sony-tv" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/red.png" group-title="Кино и сериалы" ,.red
 #EXTVLCOPT:Mozilla/5.0
 http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
@@ -122,3 +125,24 @@ http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Дом кино премиум.png" group-title="Кино и сериалы" ,Дом кино Премиум(2)
 #EXTVLCOPT:Mozilla/5.0
 http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
+#EXTINF:-1 tvg-id="kinohit" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/кинохит.png" group-title="Кино и сериалы" ,Кинохит
+#EXTVLCOPT:Mozilla/5.0
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+#EXTINF:-1 tvg-id="indiyskoe-kino" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Индийское Кино.png" group-title="Кино и сериалы" ,Индийское Кино
+#EXTVLCOPT:Mozilla/5.0
+http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 tvg-id="kinomiks" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Киномикс.png" group-title="Кино и сериалы" ,Киномикс
+#EXTVLCOPT:Mozilla/5.0
+http://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kinopremiera-hd" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Кинопремьера.png" group-title="Кино и сериалы" ,Кинопремьера
+#EXTVLCOPT:Mozilla/5.0
+http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
+#EXTINF:-1 tvg-id="kinosvidanie" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Киносвидание.png" group-title="Кино и сериалы" ,Киносвидание(1)
+#EXTVLCOPT:Mozilla/5.0
+http://195.158.223.132:8008/Kinosdanie
+#EXTINF:-1 tvg-id="kinosvidanie" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Киносвидание.png" group-title="Кино и сериалы" ,Киносвидание(2)
+#EXTVLCOPT:Mozilla/5.0
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+#EXTINF:-1 tvg-id="kinosvidanie" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Киносемья.png" group-title="Кино и сериалы" ,Киносемья
+#EXTVLCOPT:Mozilla/5.0
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
