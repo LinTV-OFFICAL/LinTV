@@ -107,3 +107,18 @@ http:/158.101.222.193:88/georgia_play.php?id=amedia2
 #EXTINF:-1 tvg-id="" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Amedia Hit.png" group-title="Кино и сериалы" ,Amedia Hit
 #EXTVLCOPT:Mozilla/5.0
 http:/158.101.222.193:88/georgia_play.php?id=amediahit
+#EXTINF:-1 tvg-id="domkino" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Дом кино.png" group-title="Кино и сериалы" ,Дом кино(1)
+#EXTVLCOPT:Mozilla/5.0
+https://flussonic.salomtv.uz/domkino/video.m3u8
+#EXTINF:-1 tvg-id="domkino" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Дом кино.png" group-title="Кино и сериалы" ,Дом кино(2)
+#EXTVLCOPT:Mozilla/5.0
+http://188.225.31.197/bpk-tv/000000050/tve/index.m3u8
+#EXTINF:-1 tvg-id="domkino" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Дом кино.png" group-title="Кино и сериалы" ,Дом кино(3)
+#EXTVLCOPT:Mozilla/5.0
+http://193.25.8.59:8000/domkino
+#EXTINF:-1 tvg-id="domkino-premium" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Дом кино премиум.png" group-title="Кино и сериалы" ,Дом кино Премиум(1)
+#EXTVLCOPT:Mozilla/5.0
+http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
+#EXTINF:-1 tvg-id="domkino-premium" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Дом кино премиум.png" group-title="Кино и сериалы" ,Дом кино Премиум(2)
+#EXTVLCOPT:Mozilla/5.0
+http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
