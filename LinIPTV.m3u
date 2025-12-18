@@ -146,3 +146,6 @@ http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
 #EXTINF:-1 tvg-id="kinosemiya" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Киносемья.png" group-title="Кино и сериалы" ,Киносемья
 #EXTVLCOPT:Mozilla/5.0
 http://158.101.222.193:88/georgia_play.php?id=kinosemya
+#EXTINF:-1 tvg-id="kinosemiya" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Киносемья.png" group-title="Кино и сериалы" ,National Graphic
+#EXTVLCOPT:Mozilla/5.0
+http://31.47.199.45:1402/nationalgeographic/index.m3u8
