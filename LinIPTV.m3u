@@ -149,6 +149,6 @@ http://158.101.222.193:88/georgia_play.php?id=kinosemya
 #EXTINF:-1 tvg-id="national-geographic" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/national-geographic.png" group-title="Познавательные" ,National Geographic
 #EXTVLCOPT:Mozilla/5.0
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
-#EXTINF:-1 tvg-id="nat-geo-wild" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/nat-geo-wild.png" group-title="Познавательные" Nat Geo Wild
+#EXTINF:-1 tvg-id="nat-geo-wild" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/nat-geo-wild.png" group-title="Познавательные" ,Nat Geo Wild
 #EXTVLCOPT:Mozilla/5.0
 http://31.47.199.45:1402/natgeowild/index.m3u8
