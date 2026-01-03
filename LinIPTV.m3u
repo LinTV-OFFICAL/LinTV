@@ -100,7 +100,7 @@ http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Кино ТВ.png" group-title="Кино и сериалы" ,Кино ТВ
 #EXTVLCOPT:Mozilla/5.0
-https://github.com/LinTV-OFFICAL/LinTV/raw/refs/heads/main/VIDEO/НЕДОСТУПНО.mp4
+http://31.148.48.15:80/Kino_TV/index.m3u8
 #EXTINF:-1 tvg-id="" ttp-user-agent="Mozilla/5.0" tvg-logo="https://raw.githubusercontent.com/LinTV-OFFICAL/LinTV/refs/heads/main/LOGO/Amedia 1.png" group-title="Кино и сериалы" ,Amedia 1
 #EXTVLCOPT:Mozilla/5.0
 http:/158.101.222.193:88/georgia_play.php?id=amedia
